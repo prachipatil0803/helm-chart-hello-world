@@ -4,10 +4,10 @@ This Helm chart contains a simple "Hello World" application on Kubernetes. This 
 
 ## Features
 
-Contains a simple hello world that deploys nginx web server on kubernetes cluster.
-Configurable service type and replica count.
+-Contains a simple hello world that deploys nginx web server on kubernetes cluster.
+-Configurable service type and replica count.
 
 ## Prerequisites
 
-A Kubernetes cluster running (Minikube or any other).
-Helm installed on your local machine.
+-A Kubernetes cluster running (Minikube or any other).
+-Helm installed on your local machine.
